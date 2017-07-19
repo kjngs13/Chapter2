@@ -2,7 +2,7 @@ class Boolean
 {
 	public static void main(String[] args)
 	{
-		boolean b1=true;
+		boolean b1=true;	//mearedorÀÌ °íÄ§
 		boolean b2=false;
 		
 		System.out.println(b1);
